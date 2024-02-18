@@ -1,0 +1,19 @@
+{
+  "name": "@gaonengwww/create-ts-lib",
+  "version": "1.0.0",
+  "description": "typescript lib template",
+  "main": "create-ts-lib",
+  "keywords": [
+    "cli"
+  ],
+  "author": "GaoNengwWw <gaoneng>",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.11.19",
+    "chalk": "^4.1.2",
+    "commander": "^12.0.0"
+  },
+  "bin": {
+    "create-ts-lib": "./create-ts-lib.js"
+  }
+}
