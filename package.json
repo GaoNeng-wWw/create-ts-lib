@@ -1,6 +1,6 @@
 {
   "name": "@gaonengwww/create-ts-lib",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "typescript lib template",
   "main": "create-ts-lib.js",
   "keywords": [
