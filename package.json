@@ -1,12 +1,12 @@
 {
   "name": "@gaonengwww/create-ts-lib",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "typescript lib template",
-  "main": "create-ts-lib",
+  "main": "create-ts-lib.js",
   "keywords": [
     "cli"
   ],
-  "author": "GaoNengwWw <gaoneng>",
+  "author": "GaoNengwWw <gaonenggg@outlook.com>",
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^20.11.19",
